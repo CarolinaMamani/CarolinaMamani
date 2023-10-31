@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">Hola 👋, soy Carolina Mamani</h1>
-  <h3 align="center> "Programadora Junior" </h3>
+  <h3 align="center"> "Programadora Junior" </h3>
 
 
 </p>
