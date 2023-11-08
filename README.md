@@ -55,8 +55,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VsdnVjMzU5eWo1d2NkeWJrankxd3RrN2tvejhsNzkxeDV3NDh0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJzrkQOR0xgYRnWF8h/giphy.gif" width="300">
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 
 
