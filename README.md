@@ -4,11 +4,6 @@
   <h3 align="center"> "Programadora Junior" </h3>
 
 
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/meiUhwwE33B9tuuRbC/giphy.gif" width="300">
-</p>
-
 
 - 🎓 Estudiante de último semestre en **UTN Sede San Rafael - Argentina**
 
