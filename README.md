@@ -6,13 +6,13 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,django,mysql,css,html,docker,springboot,json,git,scrum&perline=7" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolinaMamani&show_icons=true&locale=en" alt="CarolinaMamani" />
-</p>
-
 ## Here I'm practicing and learning to code every day
 
 ### 4 Hours per day ⏲️
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarolinaMamani&theme=gruvbox-duo)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaMamani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
