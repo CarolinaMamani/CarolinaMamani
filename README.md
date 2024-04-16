@@ -7,13 +7,6 @@
 
 - 🎓 Estudiante de último semestre en **UTN Sede San Rafael - Argentina**
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo de videojuegos e Inteligencia Artificial**
-- 💡 Motivada por mi amor por la **tecnología** y el deseo de **innovar** 
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/CarolinaMamani](https://github.com/CarolinaMamani)
-
-- ⚡ Fun fact **Soy ilustradora digital y me encanta diseñar personajes para videojuegos**
-
 
 <h2 align="center">🛠️ Mis Herramientas y Tecnologías 🛠️</h2>
 <p align="center">
@@ -24,25 +17,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CarolinaMamani&show_icons=true&locale=en" alt="CarolinaMamani" />
 </p>
 
-<h2 align="center">🎯 Intereses y Objetivos Profesionales</h2>
-
-- 🤖 **Inteligencia Artificial**: Me interesa especialmente el aprendizaje automático y crear herramientas para la ilustración.
-- 🎨 **Diseño**: Quiero incorporar IA en el diseño para optimizar procesos.
-- 🕹 **Desarrollo de Juegos**: Como ilustradora, deseo combinar mis habilidades para crear videojuegos únicos.
-
-<h2 align="center">🤝 Colaboraciones y Comunidad</h2>
-
-- 🌟 **Proyectos Open Source**: Interesada en colaborar, aunque aún buscando el proyecto adecuado.
-- 🏆 **Hackathones y Competencias**: Tal vez en el futuro.
-- 💼 **Comunidad**: Desearía unirme a comunidades de tecnología o IA.
-
 
 <h2 align="center">📞 Contacto y Redes Sociales</h2>
 
 - 📧 Correo electrónico: [Gmail](mailto:mamanicarolina27@gmail.com)
 - 💼 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-CarolinaMamani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-mamani-75a562269/)
-
-
 
 
 <h2 align="center">🚀 Aventúrate Hacia lo Desconocido</h2>
