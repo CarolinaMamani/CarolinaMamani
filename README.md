@@ -12,7 +12,7 @@
 
 ## Here I'm practicing and learning to code every day
 
-### 40 Minutes a day per course ⏲️
+### 4 Hours per day ⏲️
 
 
 
