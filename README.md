@@ -8,7 +8,7 @@
 
 ## Here I'm practicing and learning to code every day
 
-### 4 Hours per day ⏲️
+### 2 Hours per day ⏲️
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarolinaMamani&theme=gruvbox-duo)](https://git.io/streak-stats)
 
